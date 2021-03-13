@@ -1,3 +1,3 @@
-# ahj-7.1
+# ahj-8.2-server
 
-[Heroku](https://ahj-7-1.herokuapp.com/tickets)
+[Heroku](https://ra-8-2-sever.herokuapp.com/data)
